@@ -28,6 +28,11 @@ The build is minified and the filenames include the hashes.\
 Your app is ready to be deployed!
 
 See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+### npm i react router dom
+
+This will let you use the react router 
+see the section (https://v5.reactrouter.com/web/guides/quick-start)
+make sure to use the dom@5 for the use of switch
 
 ### `npm run eject`
 
@@ -68,3 +73,5 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+
+
